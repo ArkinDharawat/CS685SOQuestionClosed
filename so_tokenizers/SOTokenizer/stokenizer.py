@@ -250,7 +250,7 @@ def num2roman(num):
 def generate_number_list(limit):
     numbered_lists_joined_string = r""
     for i in range(1, limit + 1):
-        roman_upper_case = num2roman(i)
+        roman_upper_case = str(i) # num2roman(i)
         roman_lower_case = roman_upper_case.lower()
         numeric_str = str(i)
         current_string = roman_upper_case + "\)|" + roman_lower_case + "\)|" + numeric_str + "\)|"
@@ -277,7 +277,7 @@ SPECIAL_WORDS = r"^http:|^HTTP:|^vs.|^c#.net|^C#.net" + "(?=" + Bound + ")"
 # Additionally, these things are "protected", meaning they shouldn't be further split themselves.
 Protected = re.compile(
     regex_or(
-        Func_Name_Recursive,  # JT
+        # Func_Name_Recursive,  # JT
         Hearts,
         url,
         Email,

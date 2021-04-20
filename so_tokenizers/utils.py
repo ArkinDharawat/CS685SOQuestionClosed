@@ -35,7 +35,7 @@ def just_text(x):
     Returns:
         cleaned string
     """
-    return re.sub("\n<pre><code>.*?</code></pre>|</p>|<p>|<code>.*?</code>|\n|\t|\r|<a.*>.*?</a>", "", x,
+    return re.sub("\n<pre><code>.*?</code></pre>|<strong>|</strong>|<pre>.*?</pre>|</p>|<p>|<code>.*?</code>|\n|\t|\r|<a.*>.*?</a>", "", x,
                   flags=re.DOTALL)
 
 
