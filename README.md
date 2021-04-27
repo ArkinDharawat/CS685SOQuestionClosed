@@ -12,4 +12,4 @@ Use the file `so_dataset_cleaned.csv` the title,body and tags can be tokenized b
 
 Colab: https://colab.research.google.com/drive/10lpI0XfhPRfsSjP893-yFBZvvzS7UYnr?usp=sharing
 
-Colab BERT: https://colab.research.google.com/drive/179QmR3JMp6mE83IGz3xmU9RVCuaBJuU1?usp=sharing
+Colab BERT: https://colab.research.google.com/drive/1GqPpH9MgaW0R7Q4j4SsLkdC6BSGClOeT?usp=sharing
