@@ -11,3 +11,5 @@ Use the file `so_dataset_cleaned.csv` the title,body and tags can be tokenized b
 [SO Word2Vec](https://github.com/vefstathiou/SO_word2vec): Alternative? w2v embeddings for software engineering domain, file is very large ~1.5GB
 
 Colab: https://colab.research.google.com/drive/10lpI0XfhPRfsSjP893-yFBZvvzS7UYnr?usp=sharing
+
+Colab BERT: https://colab.research.google.com/drive/179QmR3JMp6mE83IGz3xmU9RVCuaBJuU1?authuser=1#scrollTo=1lpK-FzVF_Ib
