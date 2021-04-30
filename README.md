@@ -13,3 +13,5 @@ Use the file `so_dataset_cleaned.csv` the title,body and tags can be tokenized b
 Colab: https://colab.research.google.com/drive/10lpI0XfhPRfsSjP893-yFBZvvzS7UYnr?usp=sharing
 
 Colab BERT: https://colab.research.google.com/drive/1GqPpH9MgaW0R7Q4j4SsLkdC6BSGClOeT?usp=sharing
+
+**PPT link**: https://docs.google.com/presentation/d/18sJeRqw3kztcUAezpZR6nIC9FEVFlKJ3j6_wvr6bPOs/edit?usp=sharing
