@@ -15,3 +15,6 @@ Colab: https://colab.research.google.com/drive/10lpI0XfhPRfsSjP893-yFBZvvzS7UYnr
 Colab BERT: https://colab.research.google.com/drive/1GqPpH9MgaW0R7Q4j4SsLkdC6BSGClOeT?usp=sharing
 
 **PPT link**: https://docs.google.com/presentation/d/18sJeRqw3kztcUAezpZR6nIC9FEVFlKJ3j6_wvr6bPOs/edit?usp=sharing
+
+
+Doc: https://docs.google.com/document/d/1Oxxw6kST3znrCzLz9IzTgNqI-uWT4GJJIFeJRWE2AL4/edit
