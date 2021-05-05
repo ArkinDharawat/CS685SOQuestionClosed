@@ -14,6 +14,8 @@ Colab: https://colab.research.google.com/drive/10lpI0XfhPRfsSjP893-yFBZvvzS7UYnr
 
 Colab BERT: https://colab.research.google.com/drive/1GqPpH9MgaW0R7Q4j4SsLkdC6BSGClOeT?usp=sharing
 
+Colab BERT with losses and data augmentation: https://colab.research.google.com/drive/1U7OFU5JLX5EWt9AO4DE4qRI2bk91a_QB?usp=sharing
+
 **PPT link**: https://docs.google.com/presentation/d/18sJeRqw3kztcUAezpZR6nIC9FEVFlKJ3j6_wvr6bPOs/edit?usp=sharing
 
 
