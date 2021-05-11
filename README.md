@@ -22,3 +22,5 @@ Colab BERT with losses and data augmentation: https://colab.research.google.com/
 Doc: https://docs.google.com/document/d/1Oxxw6kST3znrCzLz9IzTgNqI-uWT4GJJIFeJRWE2AL4/edit
 
 OverLeaf Report: https://www.overleaf.com/6594515477bcsgcmxqqctt
+
+Analysis data (50): https://drive.google.com/file/d/1Ef-qz319jHVsArOI_fjHrGam9HalXXJO/view?usp=sharing
